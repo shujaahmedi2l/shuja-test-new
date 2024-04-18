@@ -2,7 +2,7 @@ replicaCount: 3
 
 image:
   repository: 696960135893.dkr.ecr.eu-west-1.amazonaws.com/shuja-test-new
-  tag: 4e1c828b238275a526b9ac6ddae9d46f5eac37a1
+  tag: e5dc3ea4908f15bd5635401b8efc9a3835a55f2c
   pullPolicy: Always
 
 service:
